@@ -1,0 +1,17 @@
+{
+  "name": "dazzling-devotion",
+  "scripts": {
+    "start": "platformatic start",
+    "test": "borp"
+  },
+  "devDependencies": {
+    "fastify": "^4.26.2",
+    "borp": "^0.15.0"
+  },
+  "dependencies": {
+    "@platformatic/service": "^1.47.0"
+  },
+  "engines": {
+    "node": "^18.8.0 || >=20.6.0"
+  }
+}
